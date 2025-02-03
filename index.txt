@@ -1,1 +1,2 @@
-this is first fline in index
+this is first line in index.
+and thid line we added in git.
